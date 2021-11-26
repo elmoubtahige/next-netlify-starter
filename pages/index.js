@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my apprami!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by editing <code>pages/app-ads.txt</code>
         </p>
       </main>
 
